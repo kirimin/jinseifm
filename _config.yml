@@ -1,6 +1,6 @@
 actors:
   kirimin:
-    image_url: https://kirimin.me/face_icon.png
+    image_url: /images/actors/kirimin.png
     name: kirimin
     url: https://kirimin-chan.site
 author: kirimin
