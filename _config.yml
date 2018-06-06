@@ -1,11 +1,11 @@
 actors:
   kirimin:
-    image_url: /images/actors/alice.png
+    image_url: https://kirimin.me/face_icon.png
     name: kirimin
     url: https://kirimin-chan.site
 author: kirimin
-description: きりみんちゃんです。
-description_long: きりみんちゃんです。
+description: 人生fmはきりみんちゃんの知り合いにゲストとして出演してもらい、主に生い立ちやエンジニアになった経緯、今後の人生について思っていることなどを自由に語ってもらうポッドキャストです。。
+description_long: 人生fmはきりみんちゃんの知り合いにゲストとして出演してもらい、主に生い立ちやエンジニアになった経緯、今後の人生について思っていることなどを自由に語ってもらうポッドキャストです。。
 email: minkarakirimade@gmail.com
 exclude:
   - docker
@@ -18,7 +18,7 @@ exclude:
 google_analytics:
 hashtag: examplehashtag
 itunes_podcast_url:
-keywords: comma,separated,keywords
+keywords: podcast,エモい,人生,エンジニア,プログラマ,働き方,Android
 language: ja
 markdown: kramdown
 permalink: /episode/:title
