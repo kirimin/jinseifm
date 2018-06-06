@@ -1,0 +1,9 @@
+---
+actor_ids:
+  - kirimin
+description: 田舎fmに出演してきりみんさんの人生について話しました。
+layout: link
+title: 0.5 田舎fm
+---
+
+- 
