@@ -16,7 +16,7 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: examplehashtag
+hashtag: jinseifm
 itunes_podcast_url:
 keywords: podcast,エモい,人生,エンジニア,プログラマ,働き方,Android
 language: ja
