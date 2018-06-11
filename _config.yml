@@ -3,6 +3,10 @@ actors:
     image_url: /images/actors/kirimin.png
     name: kirimin
     url: https://kirimin-chan.site
+  fushiroyama:
+    image_url: /images/actors/fushiroyama.png
+    name: fushiroyama
+    url: https://twitter.com/fushiroyama
 author: kirimin
 description: 人生fmはきりみんちゃんの知り合いにゲストとして出演してもらい、主に生い立ちやエンジニアになった経緯、今後の人生について思っていることなどを自由に語ってもらうポッドキャストです。
 description_long: 人生fmはきりみんちゃんの知り合いにゲストとして出演してもらい、主に生い立ちやエンジニアになった経緯、今後の人生について思っていることなどを自由に語ってもらうポッドキャストです。
