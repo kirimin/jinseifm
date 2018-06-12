@@ -4,7 +4,7 @@ actors:
     name: kirimin
     url: https://kirimin-chan.site
   fushiroyama:
-    image_url: /images/actors/fushiroyama.png
+    image_url: /images/actors/fushiroyama.jpg
     name: fushiroyama
     url: https://twitter.com/fushiroyama
 author: kirimin
@@ -19,7 +19,7 @@ exclude:
   - LICENSE.txt
   - README.md
   - vendor
-google_analytics:UA-119524374-6
+google_analytics: UA-119524374-6
 hashtag: jinseifm
 itunes_podcast_url:
 keywords: podcast,エモい,人生,エンジニア,プログラマ,働き方,Android
