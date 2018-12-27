@@ -19,6 +19,11 @@ actors:
     image_url: /images/actors/hotchemi.png
     name: hotchemi
     url: https://twitter.com/hotchemi
+  ymnd:
+    image_url: /images/actors/ymnd.jpg
+    name: hotchemi
+    url: https://twitter.com/ymnd
+
 author: kirimin
 description: 人生fmはきりみんちゃんの知り合いにゲストとして出演してもらい、主に生い立ちやエンジニアになった経緯、今後の人生について思っていることなどを自由に語ってもらうポッドキャストです。
 description_long: 人生fmはきりみんちゃんの知り合いにゲストとして出演してもらい、主に生い立ちやエンジニアになった経緯、今後の人生について思っていることなどを自由に語ってもらうポッドキャストです。
