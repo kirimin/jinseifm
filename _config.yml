@@ -23,6 +23,10 @@ actors:
     image_url: /images/actors/ymnd.jpg
     name: ymnd
     url: https://twitter.com/ymnd
+  juju:
+    image_url: /images/actors/juju.jpg
+    name: juju
+    url: https://twitter.com/juju
 
 author: kirimin
 description: 人生fmはきりみんちゃんの知り合いにゲストとして出演してもらい、主に生い立ちやエンジニアになった経緯、今後の人生について思っていることなどを自由に語ってもらうポッドキャストです。
