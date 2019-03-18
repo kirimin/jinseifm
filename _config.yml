@@ -31,6 +31,10 @@ actors:
     image_url: /images/actors/subroh_0508.jpg
     name: subroh_0508
     url: https://twitter.com/subroh_0508
+  smasat0:
+    image_url: /images/actors/smasat0.jpg
+    name: smasat0
+    url: https://twitter.com/smasat0
  
 
 author: kirimin
