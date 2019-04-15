@@ -35,6 +35,11 @@ actors:
     image_url: /images/actors/smasat0.jpg
     name: smasat0
     url: https://twitter.com/smasat0
+  KeithYokoma:
+    image_url: /images/actors/KeithYokoma.jpg
+    name: KeithYokoma
+    url: https://twitter.com/KeithYokoma
+
  
 
 author: kirimin
