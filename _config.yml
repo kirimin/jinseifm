@@ -39,6 +39,10 @@ actors:
     image_url: /images/actors/KeighYokoma.jpg
     name: KeithYokoma
     url: https://twitter.com/KeithYokoma
+  corocn:
+    image_url: /images/actors/corocn.jpg
+    name: corocn
+    url: https://twitter.com/corocn
 
  
 
