@@ -51,7 +51,10 @@ actors:
     image_url: /images/actors/kobakei122.jpg
     name: kobakei122
     url: https://twitter.com/kobakei122
-
+  mookjp:
+    image_url: /images/actors/mookjp.jpg
+    name: mookjp
+    url: https://twitter.com/mookjp
  
 
 author: kirimin
