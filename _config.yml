@@ -55,7 +55,10 @@ actors:
     image_url: /images/actors/mookjp.jpg
     name: mookjp
     url: https://twitter.com/mookjp
- 
+  koishi:
+    image_url: /images/actors/koishi.jpg
+    name: koishi
+    url: https://twitter.com/mego_
 
 author: kirimin
 description: 人生fmはきりみんちゃんの知り合いにゲストとして出演してもらい、主に生い立ちやエンジニアになった経緯、今後の人生について思っていることなどを自由に語ってもらうポッドキャストです。
